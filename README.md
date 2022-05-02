@@ -4,6 +4,7 @@
 ## 机型配置
 * ASUS X75VB 笔记本黑苹果安装EFI文件
 * CPU： Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+* 内存：12G DDR3 1600Mhz （4G（板载）+ 8G（扩展））
 * 主板芯片组：Intel Panther Point HM76
 * 核心显卡：Intel HD Graphics 4000
 * 独立显卡：GT740M（无法驱动，已屏蔽）
